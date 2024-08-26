@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "siberia",
+      "password": "12345"
+    },
+    {
+      "id": "2",
+      "username": "test",
+      "password": "2"
+    },
+    {
+      "id": "3",
+      "username": "test2",
+      "password": "23"
+    },
+    {
+      "id": "4",
+      "username": "123",
+      "password": "123"
+    },
+    {
+      "id": "5",
+      "username": "lera",
+      "password": "lera"
+    },
+    {
+      "id": "6",
+      "username": "123",
+      "password": "123"
+    },
+    {
+      "id": "7",
+      "username": "12222222223",
+      "password": "1222222222223"
+    },
+    {
+      "username": "siberihhhhhhhha",
+      "password": "12345888888888888888",
+      "id": "ebob2he"
+    },
+    {
+      "password": "9122013Al",
+      "username": "wwwwwwwwwwwwwwww",
+      "id": "7s2mf9g"
+    },
+    {
+      "password": "9122013Al",
+      "username": "wwwwwwwwwwwwwwww",
+      "id": "e0itx6z"
+    }
+  ]
+}
